@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PC_Application"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="中南大学软件学院" Height="438.499" Width="754.292">
     <Grid Margin="0,0,-8,-9">
-        
+
     </Grid>
 </Window>
