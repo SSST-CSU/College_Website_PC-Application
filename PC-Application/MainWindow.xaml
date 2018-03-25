@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:PC_Application"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
+    <Grid Margin="0,0,-33,-9">
         
     </Grid>
 </Window>
